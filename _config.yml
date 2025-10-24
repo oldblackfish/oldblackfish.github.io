@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiong Liu（刘琼）"
-description              : ""
+description              : "Huazhong University of Science and Technology"
 repository               : "oldblackfish/oldblackfish.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qiong Liu（刘琼）"
   avatar           : "images/liuqiong.png"
-  bio              : "Huazhong University of Science and Technology"
+  bio              : ""
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
