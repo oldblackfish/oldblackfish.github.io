@@ -44,14 +44,12 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2021* Second Prize Award for Technical Invention Award, China Society of Image and Graphics.
-  The award is certificated for my academia and industrial contributions for innovation technologies in multi-view and scalable video coding techniques andcommunications.
-
 - *2009* Prize Award for Progress in Science and Technology, Chinese Ministry of Education, China.
-  The award is certificated for my academia and industrial contributions for innovation technologies in video coding techniques and multimedia communications. This award is the unique one in the field of 3D video granted in China so far.
-
+ 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2010 - 2012 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- *2010 - 2012 (now)*, Postdoc, Automation Department, Tsinghua University. 
+- *几几年 - 2008*, Ph.D, School of Computer Science, Wuhan University. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
