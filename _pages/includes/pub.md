@@ -1,21 +1,10 @@
 # 📝 Publications 
 
-My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=x1BREcoAAAAJ&hl=zh-CN).
-
-- ``PR 2025`` [FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving (https://www.sciencedirect.com/science/article/pii/S0031320325010337), Erxin Guo, Pei An, You Yang, **Qiong Liu**<sup>*</sup>, An-An Liu.
-- ``IJCV 2025`` [Enhance Image-to-Point-Cloud Registration with Beltrami Flow](https://link.springer.com/article/10.1007/s11263-025-02575-4), Pei An, You Yang, Jiaqi Yang, Muyao Peng, **Qiong Liu**, Liangliang Nan.
-- `IEEE TIM 2025` [LDF-I2P: Learning Discriminative Cross-Modality Features for Image-to-Point Cloud Registration
-](https://ieeexplore.ieee.org/document/11134139), Muyao Peng, Pei An, You Yang, **Qiong Liu**. 
-- ``ESWA 2025`` [Spatially adaptive representation of facial meshes for face video super-resolution
-](https://www.sciencedirect.com/science/article/pii/S0957417425024819), Shangchen Cai, Xin Ding, Jing Fang, **Qiong Liu**<sup>*</sup>, You Yang.
-- ``PR 2025`` [Real-time small object detection using adaptive weighted fusion of efficient positional features
-](https://www.sciencedirect.com/science/article/pii/S0031320325003772), Xin Ding, Ruichen Zhang, **Qiong Liu**<sup>*</sup>, You Yang.
-- ``IEEE TVCG 2025`` [A Serial Perspective on Photometric Stereo of Filtering and Serializing Spatial Information
-](https://ieeexplore.ieee.org/document/10907979), Minzhe Xu, Xin Ding, You Yang, Yinqiang Zheng, **Qiong Liu**.
-- ``IEEE TMM 2025`` [End-to-End Deep Video Compression Based on Hierarchical Temporal Context Learning
-](https://ieeexplore.ieee.org/document/10855472), Kejun Wu, Zhenxing Li, You Yang, **Qiong Liu**<sup>*</sup>, Xiao-Ping Zhang.
-- ``PR 2025`` [Unsupervised learning non-uniform face enhancement under physics-guided model of illumination decoupling](https://www.sciencedirect.com/science/article/pii/S0031320325000147#aep-article-footnote-id1), Xin Ding, Jing Fang, Zhongyuan Wang, **Qiong Liu**<sup>*</sup>, You Yang, Zhenyu Shu.
-- ``IEEE ICIP 2025`` [Multi-View Multi-Focus Image Fusion: A Novel Benchmark Dataset and Method
-](https://ieeexplore.ieee.org/document/10647581), Zhilong Li; Kejun Wu; Junhao Liu; **Qiong Liu**; You Yang.
-
-
+## 📚 Machine Translation 
+- ``ACL 2023`` [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
+- `ICLR 2023` [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao
+- ``AAAI 2021`` [UWSpeech: Speech to Speech Translation for Unwritten Languages](https://arxiv.org/abs/2006.07926), Chen Zhang, Xu Tan, **Yi Ren**, et al. \| [**Project**](https://speechresearch.github.io/uwspeech/)
+- ``IJCAI 2020`` [Task-Level Curriculum Learning for Non-Autoregressive Neural Machine Translation](https://www.ijcai.org/Proceedings/2020/0534.pdf), Jinglin Liu, **Yi Ren**, Xu Tan, et al.
+- ``ACL 2020`` [SimulSpeech: End-to-End Simultaneous Speech to Text Translation](https://www.aclweb.org/anthology/2020.acl-main.350), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
+- ``ACL 2020`` [A Study of Non-autoregressive Model for Sequence Generation](https://arxiv.org/abs/2004.10454), **Yi Ren**, Jinglin Liu, Xu Tan, et al.
+- ``ICLR 2019`` [Multilingual Neural Machine Translation with Knowledge Distillation](https://openreview.net/forum?id=S1gUsoR9YX), Xu Tan, **Yi Ren**, Di He, et al.
