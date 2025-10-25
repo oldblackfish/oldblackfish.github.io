@@ -47,8 +47,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2009* Prize Award for Progress in Science and Technology, Chinese Ministry of Education, China.
  
 # 📖 Educations
-- *2010 - 2012 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2010 - 2012 (now)*, Postdoc, Automation Department, Tsinghua University. 
+- *2010 - 2012*, Postdoc, Automation Department, Tsinghua University. 
 - *几几年 - 2008*, Ph.D, School of Computer Science, Wuhan University. 
 
 # 💬 Invited Talks
