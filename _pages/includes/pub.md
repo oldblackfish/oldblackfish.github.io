@@ -2,9 +2,7 @@
 
 My full paper list is shown at [my google scholar](https://scholar.google.com/citations?user=x1BREcoAAAAJ&hl=zh-CN).
 
-#### 🎙 Audio and Speech Processing
-
-- ``PR 2025`` [FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving](https://www.sciencedirect.com/science/article/pii/S0031320325010337), Erxin Guo, Pei An, You Yang, **Qiong Liu**<sup>*</sup>, An-An Liu.
+- ``PR 2025`` [FSF-Net: Enhance 4D Occupancy Forecasting with Coarse BEV Scene Flow for Autonomous Driving (https://www.sciencedirect.com/science/article/pii/S0031320325010337), Erxin Guo, Pei An, You Yang, **Qiong Liu**<sup>*</sup>, An-An Liu.
 - ``IJCV 2025`` [Enhance Image-to-Point-Cloud Registration with Beltrami Flow](https://link.springer.com/article/10.1007/s11263-025-02575-4), Pei An, You Yang, Jiaqi Yang, Muyao Peng, **Qiong Liu**, Liangliang Nan.
 - `IEEE TIM 2025` [LDF-I2P: Learning Discriminative Cross-Modality Features for Image-to-Point Cloud Registration
 ](https://ieeexplore.ieee.org/document/11134139), Muyao Peng, Pei An, You Yang, **Qiong Liu**. 
