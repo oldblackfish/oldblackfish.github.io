@@ -26,10 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
 {% include_relative includes/pub.md %}
-
-{% include_relative includes/pub_1.md %}
 
 # 🎖 Honors and Awards
 - *2021* Second Prize Award for Technical Invention Award, China Society of Image and Graphics.
