@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Qiong Liu（刘琼）"
+title                    : "Rui Zhou (周锐)"
 description              : ""
 repository               : "oldblackfish/oldblackfish.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Qiong Liu（刘琼）"
+  name             : "Rui Zhou (周锐)"
   avatar           : "images/liuqiong.png"
   bio              : "School of Electronic Information and Communications, Huazhong University of Science and Technology"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=x1BREcoAAAAJ&hl=zh-CN"
-  email            : "q.liu@hust.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=WsAHZT8AAAAJ&hl=zh-CN"
+  email            : "rui_z@hust.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
