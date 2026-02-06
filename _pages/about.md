@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include_relative includes/pub.md %}
+
 # 🎓 Educations
 - 2025/09 - Now, Ph.D. Huazhong University of Science and Technology(HUST), Wuhan, China.
 - 2022/09 - 2015/06, M.S. Ningbo University(NBU), Ningbo, China.
