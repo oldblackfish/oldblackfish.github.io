@@ -13,7 +13,7 @@ Hi! I’m Rui Zhou, welcome to my homepage!
 
 I am currently a Ph.D. student in Electronic Information with the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China.
 
-## 💡 My research interests include:
+## 💡 My research interests:
 - Image Quality Assessment (IQA)
 - Light Field Image (LFI)
 - 3D Gaussian Splatting (3DGS)
