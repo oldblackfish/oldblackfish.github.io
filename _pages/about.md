@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-👋 About Me
+# 👋 About Me
 Hi! I’m Rui Zhou, welcome to my homepage!
 
 I am currently a Ph.D. student in Electronic Information with the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST), Wuhan, China.
 
-💡My research interests include:
+💡 My research interests include:
 - Image Quality Assessment (IQA)
 - Light Field Image (LFI)
 - 3D Gaussian Splatting (3DGS)
@@ -41,3 +41,9 @@ I am currently a Ph.D. student in Electronic Information with the School of Elec
 - 2022/09 - 2015/06, M.S., Ningbo University (NBU), Ningbo, China.
 - 2018/09 - 2022/06, B.S., Qilu University of Technology (QLU), Jinan, China.
 
+
+# 🏅 Awards & Honors
+- 2025 | National Scholarship (Ministry of Education, Top 2%)
+- 2025 | First-class Scholarship of NBU
+- 2025 | Excellent Graduates of NBU
+- 2022 | Excellent Graduates of Shandong Province
