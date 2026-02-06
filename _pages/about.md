@@ -44,7 +44,7 @@ I am currently a Ph.D. student in Electronic Information with the School of Elec
 
 
 # 🏅 Awards and Honors
-- 2025 | National Scholarship (Ministry of Education, Top 2%)
-- 2025 | First-class Scholarship of NBU
-- 2025 | Excellent Graduates of NBU
-- 2022 | Excellent Graduates of Shandong Province
+- 2025 \| National Scholarship (Ministry of Education, Top 2%)
+- 2025 \| First-class Scholarship of NBU
+- 2025 \| Excellent Graduates of NBU
+- 2022 \| Excellent Graduates of Shandong Province
